@@ -1,4 +1,4 @@
-# Week 2, Day 4 Discussion
+# Domain Modelling Discussion Questions
 
 ### Discuss these questions with your fellow table mates and try to model some solutions to the questions  
 
@@ -16,3 +16,5 @@
 5 . If a Reviewer does not have a direct relationship to a Movie, how can a Movie list the names of it's Reviewers? What would you call this relationship?
 
 6 . Would a Review be a property of a User or it's own table? Why?
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/week-2-day-4-discussion'>Domain Modelling</a> on Learn.co and start learning to code for free.</p>
