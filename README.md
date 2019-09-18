@@ -5,6 +5,9 @@
 
 ##### Using Netflix as your model, think about/try to model some solutions for the following questions:
 
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/domain-modeling/Image_116_UsersAndMovies.png" alt="netflix" width="500"/>
+</p>
 1 . What would a Users table look like? What columns do you think would be in the table?
 
 2 . As a user you should be able to look at a list of movies and select any individual movies to add to your Queue. How would you model the relationship between a User and their Queue of Movies? What kind of properties would a Queue have? What kind of relationships would a Queue have with other tables? _Be sure to be very clear about on which table(s) the foreign keys are found. Be sure your domain allows the same Movie to appear on many different user's queues_
